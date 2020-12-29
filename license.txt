@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parmizan
+* source:	https://sketchfab.com/3d-models/parmizan-07683b540102459d9ee42684a0a17401
+* author:	arkadiychechetko (https://sketchfab.com/arkadiychechetko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parmizan" (https://sketchfab.com/3d-models/parmizan-07683b540102459d9ee42684a0a17401) by arkadiychechetko (https://sketchfab.com/arkadiychechetko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
